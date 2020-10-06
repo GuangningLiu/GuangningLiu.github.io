@@ -43,8 +43,6 @@ My former experience mainly consists of Academic Researches (***mainly about str
 ## SKILLS
 Software Skills: Maple, IBM SPSS Statistics, IBM SPSS Amos, IBM ILOG CPLEX.
 Languages: English (fluent), Mandarin Chinese (native).
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Image](src)
