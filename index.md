@@ -45,4 +45,4 @@ Software Skills: Maple, IBM SPSS Statistics, IBM SPSS Amos, IBM ILOG CPLEX.
 Languages: English (fluent), Mandarin Chinese (native).
 
 
-[Image](src)
+[Pic-Tibet-2019.jpg](src)
