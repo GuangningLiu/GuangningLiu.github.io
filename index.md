@@ -44,5 +44,3 @@ My former experience mainly consists of Academic Researches (***mainly about str
 Software Skills: Maple, IBM SPSS Statistics, IBM SPSS Amos, IBM ILOG CPLEX.
 Languages: English (fluent), Mandarin Chinese (native).
 
-
-[Pic-Tibet-2019.jpg](src)
