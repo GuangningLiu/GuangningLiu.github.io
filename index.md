@@ -2,7 +2,7 @@
 - This page provides a brief biography of Guangning Liu, including his Education, Research Experience, Publication, Honors & Awards, and Skills.
 - If you need further detailed information, please contact liuguangning@my.swjtu.edu.cn.
 ## Education
-- I am studying for a M.A. in Management Science and Engineering in Southwest Jiaotong University (SWJTU), with expected graduation in 2021.
+- I am studying for a M.A. in Management Science and Engineering in Southwest Jiaotong University (SWJTU) in China, with expected graduation in 2021.
 - I received a B.S.in Business Administration from Southwest Jiaotong University in 2018.
 - I participated the summer school in Xiamen University in July 2018, and University of California, Los Angeles in 2016.
 
