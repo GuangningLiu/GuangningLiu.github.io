@@ -23,7 +23,7 @@ My former experience mainly consists of Academic Researches (***mainly about str
 
 3. Consulting Project
 -  Research on Operating Mode for International Science and Technology Cooperation Base in Railway Industry (May 2018 – Nov. 2019, funded by *National Railway Administration of People’s Republic of China*).
--  Research on the Impact of China-Pakistan Railway on China–Pakistan Economic Corridor (Sept. 2017 – June 2018, *National Railway Administration of People’s Republic of China*)
+-  Research on the Impact of China-Pakistan Railway on China–Pakistan Economic Corridor (Sept. 2017 – June 2018, funded by *National Railway Administration of People’s Republic of China*)
 -  Research on Development Strategy for Laboratory for Rail Transportation (Sept. 2017 - June 2018, funded by *Ministry of Education of P.R.China*)
 -  Financial Text Mining Project for Ping An Insurance (Group) Company of China, Ltd (Oct. 2016 – June 2017, funded by *Ping An Insurance (Group) Company of China*)
 
