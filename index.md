@@ -1,7 +1,7 @@
 # Guangning Liu 
 - I am a master in Management Science and Engineering from Southwest Jiaotong University, Chengdu China. 
 - This page provides a brief biography, including his Education, Research Experience, Publication, Honors & Awards, and Skills.
-- If you need further detailed information, please contact liuguangning@my.swjtu.edu.cn.
+- If you need further detailed information, please contact *liuguangning@my.swjtu.edu.cn*.
 
 ## EDUCATION
 - I am studying for a M.A. in Management Science and Engineering in Southwest Jiaotong University (SWJTU) in China, with expected graduation in 2021.
@@ -46,5 +46,5 @@ Software Skills: Maple, IBM SPSS Statistics, IBM SPSS Amos, IBM ILOG CPLEX.
 
 Languages: English (fluent), Mandarin Chinese (native).
 
-## Personal Pictures
+## PERSONAL PICTURES
 - <img src="/Pic-Tibet-2019.jpg" width="40%">  
