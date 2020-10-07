@@ -1,7 +1,8 @@
 # Guangning Liu 
 - I am a master in MSE from Southwest Jiaotong University, Chengdu China. This page provides a brief biography, including his Education, Research Experience, Publication, Honors & Awards, and Skills.
 - If you need further detailed information, please contact liuguangning@my.swjtu.edu.cn.
-# Education
+
+## EDUCATION
 - I am studying for a M.A. in Management Science and Engineering in Southwest Jiaotong University (SWJTU) in China, with expected graduation in 2021.
 - I received a B.S.in Business Administration from Southwest Jiaotong University in 2018.
 - I participated the summer school in Xiamen University in July 2018, and University of California, Los Angeles in 2016.
@@ -25,7 +26,6 @@ My former experience mainly consists of Academic Researches (***mainly about str
 -  Research on Development Strategy for Laboratory for Rail Transportation (Sept. 2017 - June 2018, funded by *Ministry of Education of P.R.China*)
 -  Financial Text Mining Project for Ping An Insurance (Group) Company of China, Ltd (Oct. 2016 – June 2017, funded by *Ping An Insurance (Group) Company of China*)
 
-
 ## PUBLICATION
 1.	Guangning Liu, Zhenzhong Guan, Hua Wang. (2019). Dynamic Pricing under Cost Reduction in the Presence of Myopic and Strategic Consumers [J]. Discrete Dynamics in Nature and Society, 2019, 1-15. ([https://www.hindawi.com/journals/ddns/2019/3272875/](url))
 2.	Zhenzhong Guan, Guangning Liu, Hua Wang. Optimal Pricing Strategies in the Presence of Copycats [J]. Industrial Engineering and Management, admitted. ([https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=GYGC20191217002&v=8NsqV%25mmd2B9wAnj7q3CGwcMNJUnhB5sFOwebaV9%25mmd2BfoKs5iNmFhOzis1Io2UeuDQ9QH39](url))
@@ -44,4 +44,5 @@ My former experience mainly consists of Academic Researches (***mainly about str
 Software Skills: Maple, IBM SPSS Statistics, IBM SPSS Amos, IBM ILOG CPLEX.
 Languages: English (fluent), Mandarin Chinese (native).
 
-<img src="/avatar.jpg" width="100%">
+## Personal Pictures
+- <img src="/avatar.JPG" width="30%"> 
