@@ -1,5 +1,5 @@
 # Guangning Liu 
-- I am a master in Management Science and Engineering from Southwest Jiaotong University, Chengdu China. 
+- I am a master degree candidate in Management Science and Engineering from Southwest Jiaotong University, Chengdu China. 
 - This page provides a brief biography, including his Education, Research Experience, Publication, Honors & Awards, and Skills.
 - If you need further detailed information, please contact *liuguangning@my.swjtu.edu.cn*.
 
