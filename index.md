@@ -1,12 +1,12 @@
 # Guangning Liu 
-- I am a master degree candidate in Management Science and Engineering from Southwest Jiaotong University, Chengdu China. 
+- I am a master's degree candidate in Management Science and Engineering from Southwest Jiaotong University, Chengdu China. 
 - This page provides a brief biography, including his Education, Research Experience, Publication, Honors & Awards, and Skills.
 - If you need further detailed information, please contact *liuguangning@my.swjtu.edu.cn*.
 
 ## EDUCATION
-- I am studying for a M.A. in Management Science and Engineering in Southwest Jiaotong University (SWJTU) in China, with expected graduation in 2021.
+- I am studying for a M.A. in Management Science and Engineering at Southwest Jiaotong University (SWJTU) in China, with expected graduation in 2021.
 - I received a B.S.in Business Administration from Southwest Jiaotong University in 2018.
-- I participated the summer school in Xiamen University in July 2018, and University of California, Los Angeles in 2016.
+- I participated in the summer school at Xiamen University in July 2018, and at the University of California, Los Angeles in 2016.
 
 ## RESEARCH EXPERIENCE
 My former experience mainly consists of Academic Researches (***mainly about strategic consumers and pricing***), Case Studies (***mainly about platform company and two-sided market***) and several consulting programs for government and companies, supervised by my mentor.
