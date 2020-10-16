@@ -39,7 +39,7 @@ My former experience mainly consists of Academic Researches (***mainly about str
 3. 1st prize of China Undergraduate Mathematical Contest in Modeling, Sichuan Division (29/1200).
 4. 1st prize of Wuyi Undergraduate Mathematical Contest in Modeling (45/3300).
 5. 1st prize of SWJTU Undergraduate Mathematical Contest in Modeling (3/800).
-6. National Scholarship of China in 2016.
+6. National Scholarship of China in 2016, 2020.
 
 ## SKILLS
 Software Skills: Maple, IBM SPSS Statistics, IBM SPSS Amos, IBM ILOG CPLEX.
