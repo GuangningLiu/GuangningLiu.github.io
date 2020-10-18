@@ -33,6 +33,9 @@ My former experience mainly consists of Academic Researches (***mainly about str
 3.	Zhenzhong Guan, Guangning Liu. PLT or ELT? Research on Replenishment Strategy Considering Consumers' Availability Regret [J]. Industrial Engineering and Management, admitted. [Link](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=GYGC20200713002&v=Cdng7zT2gP508k4kHxjKui1CPZKu27FK89M%25mmd2FA9V8NrmOAxMNJ1BQPnSQg79xsAi6)
 4.	Zhenzhong Guan, Yiwan Yu, Sijia Chen, Mengting Shu, Guangning Liu. Crossing the Divide: A Breakthrough Way for Bizcollection Exchange under Community Management, China Management Case-sharing Center, 2020, MIS-0182. [Link](http://www.cmcc-dut.cn/Cases/Detail/4323)
 
+## PAPERS IN PREPARATION
+1.	Zhenzhong Guan, Guangning Liu. Two-sided Communication for New Products Considering Inconsistent Product Design.
+
 ## HONORS & AWARDS
 1. Silver Medal of 4th “Internet+” Innovation & Entrepreneurship Competition, Sichuan Division (100/58909).
 2. Patent for Utility Models, “ A Contactless Wireless Mobile Phone Charging Device”.
