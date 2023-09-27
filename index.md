@@ -1,11 +1,11 @@
 # Guangning Liu 
-- I am a master's degree candidate in Operations Research and Analytics from National University of Singapore. 
+- I am a master's degree candidate in Operations Research and Analytics at National University of Singapore. 
 - This page provides a brief biography, including my Education, Research Experience, Publication, Honors & Awards, and Skills.
 - If you need further detailed information, please contact *liuguangning@my.swjtu.edu.cn*.
 
 ## EDUCATION
-- I am studying for a M.A. in Management Science and Engineering at Southwest Jiaotong University (SWJTU) in China, with expected graduation in 2021.
-- I received a B.S.in Business Administration from Southwest Jiaotong University in 2018.
+- I am studying for a M.S. in Operations Research and Analytics at National University of Singapore (NUS), with expected graduation in 2023.
+- I received a B.S.in Business Administration and M.S.in Management Science and Engineering from Southwest Jiaotong University.
 - I participated in the summer school at Xiamen University in July 2018, and at the University of California, Los Angeles in 2016.
 
 ## RESEARCH EXPERIENCE
